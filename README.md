@@ -21,7 +21,7 @@ cd Bitirme_Projesi
 
 Projeyi kaydet istediğiniz klasörün içindeyseniz, aşağıdaki komutu girerek bu github deposunu bilgisayarınıza indirebilirsiniz:
 ```
-git clone https://github.com/Kodland-Codes/m8l1---Discord-Botu.git
+git@github.com:Kodland-Codes/M3L3--Formlar.git
 ```
 
 ## Sanal ortamı aktifleştirmek ve kütüphaneleri indirmek
